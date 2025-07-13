@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b92a2786-c6a4-40c3-998b-5d6f3fe4c134" name="Changes" comment="commit from intellij">
-      <change beforePath="$PROJECT_DIR$/target/hello-world-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/hello-world-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/HelloWorldTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/HelloWorldTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-HelloWorldTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-HelloWorldTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pdf/MavenArchtypes.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pdf/MavenBuildLifeCycles.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pdf/MavenCoordinates.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pdf/MavenDeps.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pdf/MavenPOM.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pdf/MavenRepositories.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pdf/MavenWagon.pdf" beforeDir="false" />
-    </list>
+    <list default="true" id="b92a2786-c6a4-40c3-998b-5d6f3fe4c134" name="Changes" comment="commit from intellij" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,32 +31,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.HelloWorld.executor": "Run",
-    "Maven.hello-world [clean].executor": "Run",
-    "Maven.hello-world [compile].executor": "Run",
-    "Maven.hello-world [deploy].executor": "Run",
-    "Maven.hello-world [install].executor": "Run",
-    "Maven.hello-world [org.apache.maven.plugins:maven-compiler-plugin:3.13.0:compile].executor": "Run",
-    "Maven.hello-world [org.apache.maven.plugins:maven-compiler-plugin:3.13.0:help].executor": "Run",
-    "Maven.hello-world [org.apache.maven.plugins:maven-jar-plugin:3.4.1:help].executor": "Run",
-    "Maven.hello-world [org.apache.maven.plugins:maven-resources-plugin:3.3.1:help].executor": "Run",
-    "Maven.hello-world [org.apache.maven.plugins:maven-resources-plugin:3.3.1:resources].executor": "Run",
-    "Maven.hello-world [org.apache.maven.plugins:maven-surefire-plugin:3.2.5:help].executor": "Run",
-    "Maven.hello-world [package].executor": "Run",
-    "Maven.hello-world [site].executor": "Run",
-    "Maven.hello-world [verify].executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "last_opened_file_path": "/Users/rajkhare/Raj/Udemy/maven-zero-to-hero/code/helloworld",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.291954",
-    "settings.editor.selected.configurable": "Errors"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.HelloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.hello-world [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.hello-world [compile].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.hello-world [deploy].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.hello-world [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.hello-world [org.apache.maven.plugins:maven-compiler-plugin:3.13.0:compile].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.hello-world [org.apache.maven.plugins:maven-compiler-plugin:3.13.0:help].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.hello-world [org.apache.maven.plugins:maven-jar-plugin:3.4.1:help].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.hello-world [org.apache.maven.plugins:maven-resources-plugin:3.3.1:help].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.hello-world [org.apache.maven.plugins:maven-resources-plugin:3.3.1:resources].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.hello-world [org.apache.maven.plugins:maven-surefire-plugin:3.2.5:help].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.hello-world [package].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.hello-world [site].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.hello-world [verify].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/rajkhare/Raj/Udemy/maven-zero-to-hero/code/helloworld&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.291954&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Raj Khare\Raj\Udemy\maven-zero-to-hero\code\helloworld\target" />
